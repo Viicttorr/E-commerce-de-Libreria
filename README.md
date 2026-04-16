@@ -1,5 +1,4 @@
-# 🛒 Evaluación 2 - Programación Back End (Ecommerce con Django)
-
+# 🛒 E-commerce de Librería
 Aplicación web desarrollada en **Django** como parte de la Evaluación Sumativa 2 de Programación Back End.  
 El proyecto consiste en un **sitio Ecommerce funcional** que permite visualizar productos, gestionarlos desde un panel administrativo y navegar por categorías y detalles.
 
